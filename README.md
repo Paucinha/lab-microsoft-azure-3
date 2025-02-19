@@ -1,5 +1,7 @@
 # Configurando uma instância de Banco de Dados na Azure
 
+![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
+
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, os diferentes tipos de serviços oferecidos pela nuvem:
 
 - Descrever a IaaS, PaaS, SaaS
